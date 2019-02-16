@@ -689,6 +689,15 @@
     lodash "^4.17.10"
     to-fast-properties "^2.0.0"
 
+"@babel/types@^7.3.3":
+  version "7.3.3"
+  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.3.3.tgz#6c44d1cdac2a7625b624216657d5bc6c107ab436"
+  integrity sha512-2tACZ80Wg09UnPg5uGAOUvvInaqLk3l/IAhQzlxLQOIXacr6bMsra5SH6AWw/hIDRCSbCdHP2KzSOD+cT7TzMQ==
+  dependencies:
+    esutils "^2.0.2"
+    lodash "^4.17.11"
+    to-fast-properties "^2.0.0"
+
 "@types/babel-traverse@^6.7.17":
   version "6.7.17"
   resolved "https://registry.yarnpkg.com/@types/babel-traverse/-/babel-traverse-6.7.17.tgz#5212a4edced81f53a6c4fb1fd7a34aa4ff6cf36b"
@@ -843,13 +852,13 @@ arrify@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/arrify/-/arrify-1.0.1.tgz#898508da2226f380df904728456849c1501a4b0d"
 
-automatic-semicolon-insertion@^2.0.2:
-  version "2.0.2"
-  resolved "https://registry.npmjs.org/automatic-semicolon-insertion/-/automatic-semicolon-insertion-2.0.2.tgz#ee8b659948fa6d5cb9c6dacaed61d159786bf2c2"
-  integrity sha512-Ab8cAzygBq1AgfQldqyhWF00YThuYB16prfrOvOVM43ockBgI7pOlBy0ZYjJy08c97GiMwmAtPJGsJZB+ZvRgw==
+automatic-semicolon-insertion@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/automatic-semicolon-insertion/-/automatic-semicolon-insertion-2.0.3.tgz#96bf535c792b030eb3b09e8a4a6dd98306bba09f"
+  integrity sha512-bcvAXGPmXH56zEJ/JtP8mteoRn6p+rbIpk1maKJUSr3s+e2H2T9ak7JQtTRjbARwOH5XGdsLuwOFp1WjhcLt1A==
   dependencies:
     "@babel/traverse" "^7.2.3"
-    "@babel/types" "^7.3.2"
+    "@babel/types" "^7.3.3"
 
 babel-code-frame@^6.22.0:
   version "6.22.0"
@@ -1592,7 +1601,7 @@ lodash.unescape@4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/lodash.unescape/-/lodash.unescape-4.0.1.tgz#bf2249886ce514cda112fae9218cdc065211fc9c"
 
-lodash@^4.17.10, lodash@^4.17.5:
+lodash@^4.17.10, lodash@^4.17.11, lodash@^4.17.5:
   version "4.17.11"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.11.tgz#b39ea6229ef607ecd89e2c8df12536891cac9b8d"
 
