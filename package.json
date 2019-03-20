@@ -59,7 +59,7 @@
   ],
   "devDependencies": {
     "@babel/core": "^7.4.0",
-    "@babel/preset-env": "^7.3.1",
+    "@babel/preset-env": "^7.4.1",
     "@babel/types": "^7.3.2",
     "@types/babel__core": "^7.0.4",
     "@types/babel__generator": "^7.0.1",
